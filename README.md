@@ -12,7 +12,7 @@ Lightweight (446 bytes) alternative to colors.
 
 If I want to add features I'll make a new package and will rather mention it in this readme than change this package.
 
-## Installation - 2 minute setup
+## Installation
 
 1. `npm install esc-colors`
 

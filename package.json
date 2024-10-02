@@ -1,6 +1,6 @@
 {
   "name": "esc-colors",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "446 bytes no-nonsense reliable colors for CLI/terminal console.log on Linux/Mac.",
   "main": "main.mjs",
   "dependencies": {
