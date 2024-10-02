@@ -6,8 +6,7 @@ Lightweight (446 bytes) alternative to colors.
 
 * No dependencies
 * Small, simple, easy to audit, yourself
-
-Works on Linux or Mac (ANSI terminals)
+* Works on Linux or Mac (ANSI terminals)
 
 ## Installation - 2 minute setup
 
