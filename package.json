@@ -1,7 +1,7 @@
 {
   "name": "esc-colors",
-  "version": "0.1.0",
-  "description": "Lightweight alternative to colors.",
+  "version": "0.1.1",
+  "description": "446 bytes no-nonsense reliable colors for CLI/terminal console.log on Linux/Mac.",
   "main": "main.mjs",
   "dependencies": {
   },
@@ -14,8 +14,28 @@
     "url": "git+https://github.com/softwarecreations/esc-colors.git"
   },
   "keywords": [
-    "minimal-dependencies",
-    "simple"
+    "no dependencies",
+    "simple",
+    "cli",
+    "terminal",
+    "linux",
+    "unix",
+    "mac",
+    "escape colors",
+    "terminal colors",
+    "ANSI colors",
+    "lightweight",
+    "color formatting",
+    "Node.js",
+    "console log",
+    "console logging",
+    "console output",
+    "cross-platform",
+    "easy to use",
+    "small footprint",
+    "auditing",
+    "reliable",
+    "MIT license"
   ],
   "author": "softwarecreations",
   "license": "MIT",
