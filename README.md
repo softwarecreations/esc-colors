@@ -7,6 +7,10 @@ Lightweight (446 bytes) alternative to colors.
 * No dependencies
 * Small, simple, easy to audit, yourself
 * Works on Linux or Mac (ANSI terminals)
+* No nonsense
+* Dependable, there won't be any radical updates in future.
+
+If I want to add features I'll make a new package and will rather mention it in this readme than change this package.
 
 ## Installation - 2 minute setup
 
