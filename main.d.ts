@@ -1,7 +1,7 @@
 declare module 'esc-colors' {
   type ColorFunction = (s: string) => string;
 
-  const colors: {
+  export const colors: {
     red    : ColorFunction;
     green  : ColorFunction;
     yellow : ColorFunction;
