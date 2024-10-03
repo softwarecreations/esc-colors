@@ -1,6 +1,6 @@
 'use strict';
 
-const colors = {
+export const colors = {
   red    : s => `\u001b[31m${s}\u001b[0m`,
   green  : s => `\u001b[32m${s}\u001b[0m`,
   yellow : s => `\u001b[33m${s}\u001b[0m`,
